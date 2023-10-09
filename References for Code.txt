@@ -1,0 +1,5 @@
+[1]	N. Wale, “DCGAN Tutorial,” PyTorch Tutorials. [Online]. Available: https://pytorch.org/tutorials/beginner/dcgan_faces_tutorial.html. [Accessed: Apr. 21, 2023].
+[2]	E. Lindernoren, “PyTorch-GAN,” GitHub. [Online]. Available: https://github.com/eriklindernoren/PyTorch-GAN. [Accessed: Apr. 21, 2023].
+[3]	W. Wang, “pytorch-gan-collections,” GitHub. [Online]. Available: https://github.com/w86763777/pytorch-gan-collections. [Accessed: Apr. 21, 2023].
+[4]	R. Dutt, “VAE-GAN-PYTORCH,” GitHub. [Online]. Available: https://github.com/rishabhd786/VAE-GAN-PYTORCH. [Accessed: Apr. 21, 2023].
+[5]	F. Sayah, “Support Vector Machine & PCA Tutorial for Beginner,” Kaggle. [Online]. Available: https://www.kaggle.com/code/faressayah/support-vector-machine-pca-tutorial-for-beginner. [Accessed: Apr. 21, 2023].
