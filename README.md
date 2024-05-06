@@ -76,6 +76,7 @@ The SAR data used in this project is based on the MSTAR dataset, which is not in
 
 Note: This repository does not include the pre-trained model parameters or the MSTAR dataset used for training due to licensing and data size constraints. As a result, the code cannot be executed directly to reproduce the results. To use the models, you will need to first train them using the GAN-specific training scripts provided in each GAN's directory.
 
+Note: There is also a DDIM (Diffusion Implicit Model) implementation with much better results, which I will upload in the future.
 
 ## Acknowledgments
 
